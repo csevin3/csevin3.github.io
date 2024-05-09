@@ -13,7 +13,7 @@ Below is the complete documentation of my final project
 
 
 ## VideoExample
-<a href="https://www.youtube.com/shorts/2qUGXuCyuo8">Video</a>
+<a href="https://www.youtube.com/shorts/2qUGXuCyuo8">Link to Video</a>
 
 ## Diagrams
 ![IMG_8696](https://github.com/csevin3/csevin3.github.io/assets/157532393/d3df021c-8d2c-4c5b-837c-f3b5780df064)
